@@ -1,0 +1,11 @@
+C:\Programação_visual\visual studio\Primeiro_projeto\Primeiro_projeto\bin\Debug\Primeiro_projeto.exe.config
+C:\Programação_visual\visual studio\Primeiro_projeto\Primeiro_projeto\bin\Debug\Primeiro_projeto.exe
+C:\Programação_visual\visual studio\Primeiro_projeto\Primeiro_projeto\bin\Debug\Primeiro_projeto.pdb
+C:\Programação_visual\visual studio\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.csproj.AssemblyReference.cache
+C:\Programação_visual\visual studio\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.csproj.SuggestedBindingRedirects.cache
+C:\Programação_visual\visual studio\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.Properties.Resources.resources
+C:\Programação_visual\visual studio\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.csproj.GenerateResource.cache
+C:\Programação_visual\visual studio\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.csproj.CoreCompileInputs.cache
+C:\Programação_visual\visual studio\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.exe
+C:\Programação_visual\visual studio\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.pdb
+C:\Programação_visual\visual studio\Primeiro_projeto\Primeiro_projeto\obj\Debug\Primeiro_projeto.Form1.resources

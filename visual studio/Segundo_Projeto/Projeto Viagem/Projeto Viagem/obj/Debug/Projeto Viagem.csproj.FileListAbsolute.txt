@@ -1,0 +1,11 @@
+C:\Programação_visual\visual studio\Segundo_Projeto\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.exe.config
+C:\Programação_visual\visual studio\Segundo_Projeto\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.exe
+C:\Programação_visual\visual studio\Segundo_Projeto\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.pdb
+C:\Programação_visual\visual studio\Segundo_Projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.AssemblyReference.cache
+C:\Programação_visual\visual studio\Segundo_Projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.SuggestedBindingRedirects.cache
+C:\Programação_visual\visual studio\Segundo_Projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.Properties.Resources.resources
+C:\Programação_visual\visual studio\Segundo_Projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.GenerateResource.cache
+C:\Programação_visual\visual studio\Segundo_Projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.CoreCompileInputs.cache
+C:\Programação_visual\visual studio\Segundo_Projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.exe
+C:\Programação_visual\visual studio\Segundo_Projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.pdb
+C:\Programação_visual\visual studio\Segundo_Projeto\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.FrmPrincipal.resources
